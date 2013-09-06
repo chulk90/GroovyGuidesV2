@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Groovy\nGuidesV2</string>
+    <string name="app_purpose">GroovyGuides Cloud Vesion</string><string name="action_settings">Settings</string>
+    
+    <string name="button_1">Download test voice pack (CN)</string>
+
+</resources>
